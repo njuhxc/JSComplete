@@ -1,0 +1,28 @@
+[ 'test3.html' ]
+$$
+{ type: 'MemberExpression',
+  computed: false,
+  object: 
+   { type: 'CallExpression',
+     callee: 
+      { type: 'MemberExpression',
+        computed: false,
+        object: [Object],
+        property: [Object],
+        range: [Object],
+        loc: [Object],
+        attr: [Object] },
+     arguments: [ [Object] ],
+     range: [ 225, 256 ],
+     loc: { start: [Object], end: [Object] },
+     attr: { absvar_idx: 67 } },
+  property: 
+   { type: 'Identifier',
+     name: '$$',
+     range: [ 257, 259 ],
+     loc: { start: [Object], end: [Object] } },
+  range: [ 225, 259 ],
+  loc: 
+   { start: { line: 13, column: 0 },
+     end: { line: 13, column: 34 } } }
+property  not found; number of suggestions: 413 ($$,cssText,toString,constructor,toLocaleString,valueOf,hasOwnProperty,isPrototypeOf,propertyIsEnumerable,name,scrolling,src,frameBorder,longDesc,noResize,contentDocument,contentWindow,marginHeight,marginWidth,cols,rows,onafterprint,onbeforeprint,onbeforeunload,onblur,onerror,onfocus,onhashchange,onload,onmessage,onoffline,ononline,onpagehide,onpageshow,onpopstate,onresize,onscroll,onstorage,onunload,type,label,icon,disabled,checked,radiogroup,open,value,min,max,low,high,optimum,labels,position,htmlFor,form,defaultValue,willValidate,validity,validationMessage,checkValidity,setCustomValidity,autofocus,challenge,keytype,dirName,maxLength,placeholder,readOnly,required,wrap,textLength,select,selectionStart,selectionEnd,selectionDirection,setSelectionRange,defaultSelected,selected,text,index,options,multiple,size,length,namedItem,add,remove,selectedOptions,selectedIndex,formAction,formEnctype,formMethod,formNoValidate,formTarget,accept,alt,autocomplete,defaultChecked,files,height,indeterminate,list,pattern,step,valueAsDate,valueAsNumber,selectedOption,width,stepUp,stepDown,control,elements,acceptCharset,action,enctype,encoding,method,noValidate,target,submit,reset,colSpan,rowSpan,headers,cellIndex,rowIndex,sectionRowIndex,cells,insertCell,deleteCell,insertRow,deleteRow,span,caption,createCaption,deleteCaption,tHead,createTHead,deleteTHead,tFoot,createTFoot,deleteTFoot,tBodies,createTBody,border,coords,shape,href,download,ping,rel,relList,media,hreflang,protocol,host,hostname,port,pathname,search,hash,areas,images,kind,srclang,default,track,data,typeMustMatch,useMap,srcdoc,sandbox,seamless,crossOrigin,isMap,naturalWidth,naturalHeight,complete,cite,dateTime,pubDate,reversed,start,onredo,onundo,async,defer,charset,scoped,httpEquiv,content,sizes,getContext,innerHTML,outerHTML,insertAdjacentHTML,offsetTop,innerText,id,title,lang,dir,className,classList,dataset,itemScope,itemType,itemId,itemRef,itemProp,properties,itemValue,hidden,click,tabIndex,focus,blur,accessKey,accessKeyLabel,draggable,dropzone,contentEditable,isContentEditable,contextMenu,spellcheck,commandType,commandLabel,commandIcon,commandHidden,commandDisabled,commandChecked,style,onabort,oncanplay,oncanplaythrough,onchange,onclick,oncontextmenu,oncuechange,ondblclick,ondrag,ondragend,ondragenter,ondragleave,ondragover,ondragstart,ondrop,ondurationchange,onemptied,onended,oninput,oninvalid,onkeydown,onkeypress,onkeyup,onloadeddata,onloadedmetadata,onloadstart,onmousedown,onmousemove,onmouseout,onmouseover,onmouseup,onmousewheel,onpause,onplay,onplaying,onprogress,onratechange,onreadystatechange,onreset,onseeked,onseeking,onselect,onshow,onstalled,onsubmit,onsuspend,ontimeupdate,onvolumechange,onwaiting,namespaceURI,prefix,localName,tagName,attributes,getAttribute,getAttributeNS,setAttribute,setAttributeNS,removeAttribute,removeAttributeNS,hasAttribute,hasAttributeNS,getElementsByTagName,getElementsByTagNameNS,getElementsByClassName,children,firstElementChild,lastElementChild,previousElementSibling,nextElementSibling,childElementCount,getClientRects,getBoundingClientRect,scrollIntoView,scrollTop,scrollLeft,scrollWidth,scrollHeight,clientTop,clientLeft,clientWidth,clientHeight,substringData,appendData,insertData,deleteData,replaceData,publicId,systemId,defaultView,referrer,domain,URL,body,links,forms,cookie,write,writeln,getElementsByName,setMutationHandler,dispatchRendererEvent,implementation,documentURI,compatMode,doctype,documentElement,getElementById,createElement,createElementNS,createDocumentFragment,createTextNode,createComment,createProcessingInstruction,importNode,adoptNode,createEvent,location,lastModified,readyState,head,embeds,plugins,scripts,ELEMENT_NODE,ATTRIBUTE_NODE,TEXT_NODE,CDATA_SECTION_NODE,ENTITY_REFERENCE_NODE,ENTITY_NODE,PROCESSING_INSTRUCTION_NODE,COMMENT_NODE,DOCUMENT_NODE,DOCUMENT_TYPE_NODE,DOCUMENT_FRAGMENT_NODE,NOTATION_NODE,nodeType,nodeName,baseURI,ownerDocument,parentNode,parentElement,hasChildNodes,childNodes,firstChild,lastChild,previousSibling,nextSibling,DOCUMENT_POSITION_DISCONNECTED,DOCUMENT_POSITION_PRECEDING,DOCUMENT_POSITION_FOLLOWING,DOCUMENT_POSITION_CONTAINS,DOCUMENT_POSITION_CONTAINED_BY,DOCUMENT_POSITION_IMPLEMENTATION_SPECIFIC,compareDocumentPosition,nodeValue,textContent,insertBefore,replaceChild,removeChild,appendChild,cloneNode,isSameNode,isEqualNode,lookupPrefix,lookupNamespaceURI,isDefaultNamespace,addEventListener,removeEventListener,dispatchEvent,attachEvent,detachEvent,scope,poster,videoHeight,videoWidth,canPlayType,load,pause,play); building constraints: 172ms; solving constraints: 449ms

@@ -1,0 +1,15 @@
+<script>
+
+function highlightNodes(n) {
+    jQ(n.name).highlight(n.$$color);//expected:color
+}
+
+function setTextColor(q){
+    if (q.textColor)
+        jQ(q.name).setTextColor(q.textColor);
+}
+
+var p = { name :'td', color : '#449955' };
+
+highlightNodes(p);
+</script>

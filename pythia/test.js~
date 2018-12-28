@@ -1,0 +1,8 @@
+var myObject = {
+    firstName:"John",
+    lastName: "Doe",
+    fullName: function () {
+        return this.$$ + " " + this.lastName;
+    }
+}
+myObject.fullName();         // 返回 "John Doe"
